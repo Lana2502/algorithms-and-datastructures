@@ -11,4 +11,3 @@ public class PrintMessage{
         printNTimes(5, "SOS");
     }
 }
-
